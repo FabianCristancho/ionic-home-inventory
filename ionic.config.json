@@ -1,5 +1,8 @@
 {
   "name": "wish",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
   "type": "angular"
 }
